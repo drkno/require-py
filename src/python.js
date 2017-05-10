@@ -29,7 +29,7 @@ class PythonRegister extends EventEmitter {
     constructor (opts = {}) {
         super();
         this._opts = opts;
-        this._file = path.join(__dirname, 'python.py');
+        this._file = path.join(__dirname, 'pythonClient.py');
         this._shutdownBind = () => {
             this.unregister();
             process.exit();
