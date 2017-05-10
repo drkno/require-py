@@ -1,0 +1,26 @@
+{
+  "name": "require-py",
+  "version": "0.0.1",
+  "description": "Require python code from within Node.JS seemlessly",
+  "main": "python.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrkno/require-py.git"
+  },
+  "keywords": [
+    "node",
+    "python",
+    "require",
+    "py",
+    "js"
+  ],
+  "author": "Matthew Knox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrkno/require-py/issues"
+  },
+  "homepage": "https://github.com/mrkno/require-py#readme"
+}
