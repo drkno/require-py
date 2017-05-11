@@ -1,4 +1,4 @@
-const python = require('../src/python.js')();
+const python = require('../src/pythonServer.js')();
 python.register();
 
 const bar = require('./required.py');
